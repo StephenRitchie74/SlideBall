@@ -5,4 +5,4 @@ To install:
 3. Click download anyway if your browser says that it might be dangerous.
 4. Click on the finished download to install.
 
-Please Note: This app is not a browser like Google Chrome. Some websites and processes will not work. This app has been verified by Google Play Protect, and it is safe to use. 
+
